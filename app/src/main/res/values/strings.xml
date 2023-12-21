@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuotesApp</string>
+<!--    <string name="dashbord">Category</string>-->
+    <string name="quotes">All Quotes</string>
+    <string name="favorite">Favorite</string>
+    <string name="category">Category</string>
+
+
+</resources>
